@@ -73,7 +73,7 @@ Funcionalidades adicionais:
 - Nenhum recurso não funcional conhecido
 
 ## Imagens
-![1](https://user-images.githubusercontent.com/48807462/124328188-8eda9d80-db5f-11eb-8590-896d1123e193.jpg)
+![download (7)](https://user-images.githubusercontent.com/48807462/124328289-b7fb2e00-db5f-11eb-90a0-520f19632bea.jpg)
 ![download](https://user-images.githubusercontent.com/48807462/124328199-91d58e00-db5f-11eb-89ab-c29e409e1b71.jpg)
 ![download (1)](https://user-images.githubusercontent.com/48807462/124328204-9437e800-db5f-11eb-9dc4-43d90b6fefc2.jpg)
 ![download (2)](https://user-images.githubusercontent.com/48807462/124328208-95691500-db5f-11eb-8777-0ff5a6e012f4.jpg)
